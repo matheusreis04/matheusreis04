@@ -1,1 +1,1 @@
-<h1 allign = "center"> A little bit about me :)<h1>
+<h1 align = "center"> A little bit about me :)<h1>
